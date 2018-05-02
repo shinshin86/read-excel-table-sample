@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "node sample.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.12.11"
+  }
+}
